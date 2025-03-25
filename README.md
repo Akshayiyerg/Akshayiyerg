@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Ganesh</h1>
 <h3 align="center">Passionate iOS Engineer with 6+ years of experience building high-performance, user-centric applications using Swift, SwiftUI, and UIKit. Skilled in architecture patterns, performance optimization, and seamless app experiences. Feel free to reach out to any freelancing opportunity.</h3>
 
-- 🌱 I’m currently learning **SwiftUI, React**
+- 🌱 I’m currently learning **Kotlin, React**
 
 - 👯 I’m looking to collaborate on **Mobile development**
 
